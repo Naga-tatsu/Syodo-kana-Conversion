@@ -1,0 +1,5 @@
+git
+build-essential
+mecab
+libmecab-dev
+mecab-ipadic-utf8

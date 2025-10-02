@@ -1,0 +1,3 @@
+gradio
+mecab-python3
+ipadic
